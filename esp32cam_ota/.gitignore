@@ -1,0 +1,8 @@
+.pio
+.vscode
+include
+lib
+src
+test
+platformio.ini
+post_extra.py
